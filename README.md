@@ -10,7 +10,7 @@
 <h2 align="center">
   <span style="font-size: 3em; font-weight: bold;">RAE 🧠🛠️🚀</span>
 </h2>
-<h3 align="center">HI 👋 There I'm Your C2 🎭</h3>
+<h3 align="center">HI 👋 There I'm Dev Rachael 🚀</h3>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
